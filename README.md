@@ -1,2 +1,3 @@
-# dhbwaiworkshop3
-Interaktiver Workshop mit Jupyter Notebooks: Validierter Use Case
+# Interaktiver Workshop mit Jupyter Notebooks: Validierter Use Case
+## Über das Projekt
+##### Credits:
